@@ -12,7 +12,7 @@ It focuses on delivering learning content in a clean, accessible, and organized 
 
 ---
 
-~ Link : https://adiiitya01.github.io/ethical-site/
+~ Link : https://adiiitya01.github.io/Learning-ethical-Web-Site/
 
 ---
 
